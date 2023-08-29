@@ -1,0 +1,5 @@
+2023-08-29 {
+    "code": "-32601",
+    "message": "Method not found or not allowed",
+    "data": "some additional info"
+}
